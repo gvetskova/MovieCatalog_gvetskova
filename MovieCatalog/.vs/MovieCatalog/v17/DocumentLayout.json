@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Greta\\source\\repos\\MovieCatalog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E305C5BB-DFAA-4B8C-BFCE-9A81F19238BC}|MovieCatalog\\MovieCatalog.csproj|c:\\users\\greta\\source\\repos\\moviecatalog\\moviecatalog\\moviecatalogtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E305C5BB-DFAA-4B8C-BFCE-9A81F19238BC}|MovieCatalog\\MovieCatalog.csproj|solutionrelative:moviecatalog\\moviecatalogtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E305C5BB-DFAA-4B8C-BFCE-9A81F19238BC}|MovieCatalog\\MovieCatalog.csproj|c:\\users\\greta\\source\\repos\\moviecatalog\\moviecatalog\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E305C5BB-DFAA-4B8C-BFCE-9A81F19238BC}|MovieCatalog\\MovieCatalog.csproj|solutionrelative:moviecatalog\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E305C5BB-DFAA-4B8C-BFCE-9A81F19238BC}|MovieCatalog\\MovieCatalog.csproj|c:\\users\\greta\\source\\repos\\moviecatalog\\moviecatalog\\dtos\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E305C5BB-DFAA-4B8C-BFCE-9A81F19238BC}|MovieCatalog\\MovieCatalog.csproj|solutionrelative:moviecatalog\\dtos\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E305C5BB-DFAA-4B8C-BFCE-9A81F19238BC}|MovieCatalog\\MovieCatalog.csproj|c:\\users\\greta\\source\\repos\\moviecatalog\\moviecatalog\\moviecatalog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E305C5BB-DFAA-4B8C-BFCE-9A81F19238BC}|MovieCatalog\\MovieCatalog.csproj|solutionrelative:moviecatalog\\moviecatalog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Greta\\source\\repos\\MovieCatalog\\MovieCatalog\\DTOs\\MovieDTO.cs",
+              "RelativeDocumentMoniker": "MovieCatalog\\DTOs\\MovieDTO.cs",
+              "ToolTip": "C:\\Users\\Greta\\source\\repos\\MovieCatalog\\MovieCatalog\\DTOs\\MovieDTO.cs",
+              "RelativeToolTip": "MovieCatalog\\DTOs\\MovieDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T08:01:08.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Greta\\source\\repos\\MovieCatalog\\MovieCatalog\\DTOs\\ApiResponseDTO.cs",
+              "RelativeDocumentMoniker": "MovieCatalog\\DTOs\\ApiResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Greta\\source\\repos\\MovieCatalog\\MovieCatalog\\DTOs\\ApiResponseDTO.cs",
+              "RelativeToolTip": "MovieCatalog\\DTOs\\ApiResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T07:50:51.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieCatalog",
+              "DocumentMoniker": "C:\\Users\\Greta\\source\\repos\\MovieCatalog\\MovieCatalog\\MovieCatalog.csproj",
+              "RelativeDocumentMoniker": "MovieCatalog\\MovieCatalog.csproj",
+              "ToolTip": "C:\\Users\\Greta\\source\\repos\\MovieCatalog\\MovieCatalog\\MovieCatalog.csproj",
+              "RelativeToolTip": "MovieCatalog\\MovieCatalog.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-18T07:48:08.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieCatalogTests.cs",
+              "DocumentMoniker": "C:\\Users\\Greta\\source\\repos\\MovieCatalog\\MovieCatalog\\MovieCatalogTests.cs",
+              "RelativeDocumentMoniker": "MovieCatalog\\MovieCatalogTests.cs",
+              "ToolTip": "C:\\Users\\Greta\\source\\repos\\MovieCatalog\\MovieCatalog\\MovieCatalogTests.cs",
+              "RelativeToolTip": "MovieCatalog\\MovieCatalogTests.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwJUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:57:03.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
