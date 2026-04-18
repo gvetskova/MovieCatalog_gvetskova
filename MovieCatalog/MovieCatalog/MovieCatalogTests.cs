@@ -62,7 +62,7 @@ namespace MovieCatalog
 
             Assert.That(response.StatusCode, Is.EqualTo(HttpStatusCode.OK));
 
-            ApiResponseDTO readyResponse = JsonSerializer.Deserialize<ApiResponseDTO>(response.Content);//превръщаме response.Content в обект от тип ApiResponseDTO, който съдържа полетата Msg и FoodId
+            ApiResponseDTO readyResponse = JsonSerializer.Deserialize<ApiResponseDTO>(response.Content);//пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ response.Content пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅ ApiResponseDTO, пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ Msg пїЅ FoodId
             
             movie = readyResponse.Movie;
 
@@ -173,6 +173,8 @@ namespace MovieCatalog
             ApiResponseDTO readyResponse = JsonSerializer.Deserialize<ApiResponseDTO>(response.Content);
             
             Assert.That(readyResponse.Msg, Is.EqualTo("Unable to delete the movie! Check the movieId parameter or user verification!"));
+
+            
         }
 
 
